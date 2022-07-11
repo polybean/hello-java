@@ -7,6 +7,8 @@ import java.util.concurrent.Flow;
 import java.util.concurrent.SubmissionPublisher;
 import java.util.function.Function;
 
+import java.util.logging.Logger;
+
 import static example.model.Employee.employees;
 
 public class Transforming {
